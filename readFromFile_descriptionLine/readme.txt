@@ -1,0 +1,1 @@
+Bu örnekte herhangi bir kod dosyasindaki açiklama satirlarini okuyup baska bir dosyaya aktarmayi saglamaktadir.
