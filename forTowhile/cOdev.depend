@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1524917221 source:c:\users\emre\documents\codeblocksprojects\codev\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1524948342 source:c:\users\emre\desktop\github  repositories\cprojects\fortowhile\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
