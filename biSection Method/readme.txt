@@ -1,1 +1,1 @@
-bu bir bilgi dosyasidir
+Bisection Method
