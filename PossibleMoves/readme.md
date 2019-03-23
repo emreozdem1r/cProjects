@@ -1,0 +1,1 @@
+The app shows the horse how to move in the chess. Firstly you should say where it will be after that the app will show you where it can go.
